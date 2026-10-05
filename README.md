@@ -13,8 +13,3 @@ Este repositorio contiene la solución práctica de minería de datos aplicada a
 ---
 
 ## 🚀 Instalación y Ejecución en VS Code
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/TU_USUARIO/mineria-datos-sri-2026.git](https://github.com/TU_USUARIO/mineria-datos-sri-2026.git)
-   cd mineria-datos-sri-2026
